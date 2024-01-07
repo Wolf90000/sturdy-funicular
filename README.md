@@ -1,1 +1,1 @@
-This is the Sturdy Funicular Website which currently is WIP and a basic page.
+This is the Sturdy Funicular Website which currently is a WIP and basic page.
